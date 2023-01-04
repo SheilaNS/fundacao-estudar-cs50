@@ -5,13 +5,13 @@ Este repositório contém todas as atividades desenvolvidas por [mim](https://ww
 
 ## Conteúdo do curso
 
-##### [Introdução](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
-- [ ] O Curso
-- [ ] Nossos Canais
+##### [Introdução](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/introducao)
+- [x] O Curso
+- [x] Nossos Canais
 
-##### [Módulo 0: Scratch](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
-- [ ] Aula 0
-- [ ] Exercícios
+##### Módulo 0: Scratch
+- [x] Aula 0
+- [x] Exercícios
  
 ##### [Módulo 1: C](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
 - [ ] Aula 1
