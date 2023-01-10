@@ -1,0 +1,27 @@
+CS50: Aula 02 - Arrays
+
+clang é o compilador da linguagem c
+
+o comando make é exatamente clang
+
+Argumentos clang:
+	-o <name>		output do arquivo codificado
+	-lcs50			link cS50 library
+	
+Passos
+1 - pré-processamento: define todos os protótipos de funções que podem ser usadas no arquivo a ser compilado e implementado
+2 - compilação: converte o código em código assembly
+3 - assembling: converte o código assembly em código binário
+4 - linking: pega todos os códigos binãrios das bibliotecas utilizadas nos #include e junta tudo em um código binário único
+
+bug: erro no código
+
+debuggar o código significa procurar o erro para consertar o bug
+o printf é o nosso amigo e ajuda a encontrar o bug no código
+
+'debugger' é a ferramente que ajuda a debuggar o código de forma mais eficiente, utilizando 'breakpoints'
+
+Da biblioteca do CS50, debug50 <name>
+ddb
+
+Arrays: sequencia de valores, uma lista
