@@ -18,10 +18,10 @@ Este repositório contém todas as atividades desenvolvidas por [mim](https://ww
 - [x] Exercícios
 - [x] Lab 1
 
-##### [Módulo 2: Arrays](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
-- [ ] Aula 2
-- [ ] Exercícios
-- [ ] Lab 2
+##### [Módulo 2: Arrays](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/module-2)
+- [x] Aula 2
+- [x] Exercícios
+- [x] Lab 2
 
 ##### [Módulo 3: Algoritmos](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
 - [ ] Aula 3
