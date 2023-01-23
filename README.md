@@ -23,8 +23,8 @@ Este repositório contém todas as atividades desenvolvidas por [mim](https://ww
 - [x] Exercícios
 - [x] Lab 2
 
-##### [Módulo 3: Algoritmos](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/main)
-- [ ] Aula 3
+##### [Módulo 3: Algoritmos](https://github.com/SheilaNS/fundacao-estudar-cs50/tree/module-3)
+- [x] Aula 3
 - [ ] Exercícios
 - [ ] Lab 3
 
